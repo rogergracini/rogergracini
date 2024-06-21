@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rogergracini" target="blank"><img src="https://img.shields.io/twitter/follow/rogergracini?logo=twitter&style=for-the-badge" alt="rogergracini" /></a> </p>
 
-- 📌 Atualmente estou trabalhando na [VIP Folheados](https://vipfolheados.com.br/)
+- 📌 Atualmente estou trabalhando na [VIP Folheados](https://vipfolheados.com.br/target="_blank")
 
 - 🎓 Minha formação é **Engenharia da Computação**
 
