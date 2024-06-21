@@ -9,17 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/rogergracini" target="blank"><img src="https://img.shields.io/twitter/follow/rogergracini?logo=twitter&style=for-the-badge" alt="rogergracini" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando na [VIP Folheados](https://vipfolheados.com.br/)
+- 📌 Atualmente estou trabalhando na [VIP Folheados](https://vipfolheados.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Full Stack Developer**
+- 🎓 Minha formação é **Engenharia da Computação**
+
+- 📚 Atualmente estou aprendendo **MBA Full Stack Developer**
 
 - 💬 Pergunte-me sobre **magento, php, html, java**
 
 - 📫 Como falar comigo **contato@fatordesigner.com.br**
 
-- 📄 Conheça algumas de minhas experiências [Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql](Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql)
+- 📋 Conheça algumas de minhas experiências [Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql](Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql)
 
-- ⚡ Fato engraçado **Achei que programar era fácil**
+- 😂 Fato engraçado **Achei que programar era fácil**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
