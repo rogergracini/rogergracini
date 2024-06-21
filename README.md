@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **magento, php, html, java**
 
-- 📫 How to reach me **rogracini@gmail.com**
+- 📫 How to reach me **contato@fatordesigner.com.br**
 
 - 📄 Know about my experiences [Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql](Magento, Wordpress, Prestashop, Nuvemshop, PHP, Java, HTML, CSS, Mysql)
 
